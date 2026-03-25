@@ -586,10 +586,10 @@ scene.add(planet);
 
 
 const ringTexts = [
-  'Galaxy of Love For Ayesha',
+  'Galaxy of Love For Monalisa',
   "I love you",
   "forever only you",
-  "14/12/2025",
+  "I really love",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
